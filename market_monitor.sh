@@ -9,14 +9,14 @@
 
 # Thresholds
 VIX_THRESHOLD=30        # S&P 500 Volatility (Fear Index)
-SKEW_THRESHOLD=150      # Tail Risk (Crash Warning)
+SKEW_THRESHOLD=160      # Tail Risk (Crash Warning)
 MOVE_THRESHOLD=150      # Bond Market Volatility
 
 # Configuration file location
-CONFIG_FILE="${HOME}/scripts/env"
+CONFIG_FILE="./env"
 
 # Log file location
-LOG_FILE="$HOME/market_monitor.log"
+LOG_FILE="./market_monitor.log"
 
 # ============================================
 # Do not edit below this line
