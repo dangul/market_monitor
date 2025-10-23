@@ -9,7 +9,7 @@
 
 # Thresholds
 VIX_THRESHOLD=30        # S&P 500 Volatility (Fear Index)
-SKEW_THRESHOLD=160      # Tail Risk (Crash Warning)
+SKEW_THRESHOLD=150      # Tail Risk (Crash Warning)
 MOVE_THRESHOLD=150      # Bond Market Volatility
 
 # Configuration file location
