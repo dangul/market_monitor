@@ -23,6 +23,23 @@ Key Features:
 - Timestamp for every action
 - Error tracking
 
+## Index references
+
+- VIX - CBOE Volatility Index \
+🔗 Official CBOE Page: \
+https://www.cboe.com/tradable_products/vix/ \
+What it is: S&P 500 implied volatility over next 30 days. Known as the "Fear Index" \
+
+- SKEW - CBOE Skew Index \
+🔗 Official CBOE Page: \
+https://www.cboe.com/tradable_products/vix/volatility_on_stock_indexes/skew_index/ \
+What it is: Measures tail risk - probability of extreme negative returns (black swan events) \
+
+- MOVE - ICE BofA MOVE Index \
+🔗 Official ICE Page: \
+https://fred.stlouisfed.org/series/BAMLMOVE \
+What it is: Bond market volatility index - measures expected volatility in U.S. Treasury yields \
+
 
 ## Setup Guide
 Interactive setup (recommended) 
