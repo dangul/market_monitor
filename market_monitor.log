@@ -1,0 +1,82 @@
+2025-10-23 14:36:30 - =========================================
+2025-10-23 14:36:30 - Market Volatility Monitor - Starting Check
+2025-10-23 14:36:30 - =========================================
+2025-10-23 14:36:30 - Checking VIX (^VIX)...
+2025-10-23 14:36:30 - VIX: 19.33 (Threshold: 30)
+2025-10-23 14:36:30 - \033[0;32mVIX = 19.33 (Normal - below 30)\033[0m
+2025-10-23 14:36:32 - Checking SKEW (^SKEW)...
+2025-10-23 14:36:33 - SKEW: 152.85 (Threshold: 150)
+2025-10-23 14:36:33 - \033[0;31mALERT: SKEW = 152.85 (exceeds 150)\033[0m
+2025-10-23 14:36:33 - Pushover notification sent: ⚠️ SKEW ALERT!
+2025-10-23 14:36:36 - Checking MOVE (^MOVE)...
+2025-10-23 14:36:36 - MOVE: 75.4901 (Threshold: 150)
+2025-10-23 14:36:36 - \033[0;32mMOVE = 75.4901 (Normal - below 150)\033[0m
+2025-10-23 14:36:38 - =========================================
+2025-10-23 14:36:38 - Risk Score: 30/100
+2025-10-23 14:36:38 - Risk Level: 🟢 MODERATE RISK
+2025-10-23 14:36:38 - =========================================
+2025-10-23 14:36:39 - Pushover notification sent: 📊 Market Risk Summary
+2025-10-23 14:36:39 - Check completed - 1 alert(s) triggered
+2025-10-23 14:36:39 - 
+2025-10-23 14:36:59 - =========================================
+2025-10-23 14:36:59 - Market Volatility Monitor - Starting Check
+2025-10-23 14:36:59 - =========================================
+2025-10-23 14:36:59 - Checking VIX (^VIX)...
+2025-10-23 14:36:59 - VIX: 19.31 (Threshold: 30)
+2025-10-23 14:36:59 - \033[0;32mVIX = 19.31 (Normal - below 30)\033[0m
+2025-10-23 14:37:01 - Checking SKEW (^SKEW)...
+2025-10-23 14:37:02 - SKEW: 152.85 (Threshold: 150)
+2025-10-23 14:37:02 - \033[0;31mALERT: SKEW = 152.85 (exceeds 150)\033[0m
+2025-10-23 14:37:02 - Pushover notification sent: ⚠️ SKEW ALERT!
+2025-10-23 14:37:05 - Checking MOVE (^MOVE)...
+2025-10-23 14:37:05 - MOVE: 75.4901 (Threshold: 150)
+2025-10-23 14:37:05 - \033[0;32mMOVE = 75.4901 (Normal - below 150)\033[0m
+2025-10-23 14:37:07 - =========================================
+2025-10-23 14:37:07 - Risk Score: 30/100
+2025-10-23 14:37:07 - Risk Level: 🟢 MODERATE RISK
+2025-10-23 14:37:07 - =========================================
+2025-10-23 14:37:08 - Pushover notification sent: 📊 Market Risk Summary
+2025-10-23 14:37:08 - Check completed - 1 alert(s) triggered
+2025-10-23 14:37:08 - 
+2025-10-23 14:37:20 - =========================================
+2025-10-23 14:37:20 - Market Volatility Monitor - Starting Check
+2025-10-23 14:37:20 - =========================================
+2025-10-23 14:37:20 - Checking VIX (^VIX)...
+2025-10-23 14:37:20 - VIX: 19.28 (Threshold: 10)
+2025-10-23 14:37:20 - \033[0;31mALERT: VIX = 19.28 (exceeds 10)\033[0m
+2025-10-23 14:37:21 - Pushover notification sent: ⚠️ VIX ALERT!
+2025-10-23 14:37:23 - Checking SKEW (^SKEW)...
+2025-10-23 14:37:24 - SKEW: 152.85 (Threshold: 150)
+2025-10-23 14:37:24 - \033[0;31mALERT: SKEW = 152.85 (exceeds 150)\033[0m
+2025-10-23 14:37:24 - Pushover notification sent: ⚠️ SKEW ALERT!
+2025-10-23 14:37:26 - Checking MOVE (^MOVE)...
+2025-10-23 14:37:27 - MOVE: 75.4901 (Threshold: 150)
+2025-10-23 14:37:27 - \033[0;32mMOVE = 75.4901 (Normal - below 150)\033[0m
+2025-10-23 14:37:29 - =========================================
+2025-10-23 14:37:29 - Risk Score: 30/100
+2025-10-23 14:37:29 - Risk Level: 🟢 MODERATE RISK
+2025-10-23 14:37:29 - =========================================
+2025-10-23 14:37:30 - Pushover notification sent: 📊 Market Risk Summary
+2025-10-23 14:37:30 - Check completed - 2 alert(s) triggered
+2025-10-23 14:37:30 - 
+2025-10-23 14:37:41 - =========================================
+2025-10-23 14:37:41 - Market Volatility Monitor - Starting Check
+2025-10-23 14:37:41 - =========================================
+2025-10-23 14:37:41 - Checking VIX (^VIX)...
+2025-10-23 14:37:42 - VIX: 19.26 (Threshold: 10)
+2025-10-23 14:37:42 - \033[0;31mALERT: VIX = 19.26 (exceeds 10)\033[0m
+2025-10-23 14:37:42 - Pushover notification sent: ⚠️ VIX ALERT!
+2025-10-23 14:37:44 - Checking SKEW (^SKEW)...
+2025-10-23 14:37:44 - SKEW: 152.85 (Threshold: 100)
+2025-10-23 14:37:44 - \033[0;31mALERT: SKEW = 152.85 (exceeds 100)\033[0m
+2025-10-23 14:37:45 - Pushover notification sent: ⚠️ SKEW ALERT!
+2025-10-23 14:37:47 - Checking MOVE (^MOVE)...
+2025-10-23 14:37:47 - MOVE: 75.4901 (Threshold: 150)
+2025-10-23 14:37:47 - \033[0;32mMOVE = 75.4901 (Normal - below 150)\033[0m
+2025-10-23 14:37:50 - =========================================
+2025-10-23 14:37:50 - Risk Score: 30/100
+2025-10-23 14:37:50 - Risk Level: 🟢 MODERATE RISK
+2025-10-23 14:37:50 - =========================================
+2025-10-23 14:37:50 - Pushover notification sent: 📊 Market Risk Summary
+2025-10-23 14:37:50 - Check completed - 2 alert(s) triggered
+2025-10-23 14:37:50 - 

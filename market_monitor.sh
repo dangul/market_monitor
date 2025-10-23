@@ -227,10 +227,9 @@ log_message() {
 send_pushover() {
     local title="$1"
     local message="$2"
-    local priority="${3:-0}"
     local url="${4:-}"
     
-    local post_data="token=${PUSHOVER_API_TOKEN}&user=${PUSHOVER_USER_KEY}&title=${title}&message=${message}&priority=${priority}"
+    local post_data="token=${PUSHOVER_API_TOKEN}&user=${PUSHOVER_USER_KEY}&title=${title}&message=${message}"
     
     if [ ! -z "$url" ]; then
         post_data="${post_data}&url=${url}"
